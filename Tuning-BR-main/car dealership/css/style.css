@@ -1,0 +1,49 @@
+
+    
+    
+    header img {
+      width: 10%; 
+      vertical-align: middle;
+    }
+       
+    
+    p{
+       text-align: center; color: #ffffff;
+       font-size: 20px
+    }
+    strong{
+       color: #ffffffda;
+    } 
+    header {
+      background: #8a8282;
+    }
+    h1 {
+      display: inline;
+      vertical-align: middle;
+      font-size:30px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    nav ul li{
+      display: inline; position: relative;
+      font-size: 25px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    }
+    nav{
+      position: absolute; right: 0px; 
+      top: px;
+      margin-right: 65px;
+
+
+    }
+    body{
+      background-color: #000000;
+    }
+    .rodaicon {
+      width: 8%;
+    }
+    
+  
+    
+    
